@@ -4,4 +4,3 @@ import JSON from './components/JSON.vue'
 <template>
   <JSON />
 </template>
-
