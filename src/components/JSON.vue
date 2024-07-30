@@ -57,12 +57,10 @@
       <p>Our <code>bookstores.json</code> is a JSON object.</p>
 
       <h3>Accessing Properties</h3>
-      <p>
-        Company:
-        <!-- Activity 9a: Get the company name from the bookstores object. -->
-        <!-- TODO: CODE TO GET COMPANY NAME HERE -->
-        <h1> {{ bookstores.name }} </h1>
-      </p>
+      <p>Company:</p>
+      <!-- Activity 9a: Get the company name from the bookstores object. -->
+      <!-- TODO: CODE TO GET COMPANY NAME HERE -->
+      <h1>{{ bookstores.name }}</h1>
 
       <p>
         Total Stores:
