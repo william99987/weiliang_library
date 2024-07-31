@@ -40,7 +40,7 @@
 
       <h3>Finding in Arrays</h3>
       <p>Finding by property: {{ orwell?.name }}</p>
-      <!-- Comment -->
+      <!-- high -->
       <li>
         <text class="highlight"> {{ orwell.name }} </text> ({{ orwell.birthYear }})
       </li>
