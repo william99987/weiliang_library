@@ -12,6 +12,7 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "bootstrap": "^5.3.3",
     "ESLint": "npm:eslint@^8.57.0",
     "vue": "^3.4.29"
   },
